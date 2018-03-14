@@ -1,0 +1,11 @@
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.deps.json
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.runtimeconfig.json
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.runtimeconfig.dev.json
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.dll
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/bin/Debug/netcoreapp2.0/CSharpBasics.pdb
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.csprojResolveAssemblyReference.cache
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.csproj.CoreCompileInputs.cache
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.AssemblyInfoInputs.cache
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.AssemblyInfo.cs
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.dll
+/Users/austin/Documents/School/4330-OO Design/Assignments/CSharpBasics/CSharpBasics/obj/Debug/netcoreapp2.0/CSharpBasics.pdb
